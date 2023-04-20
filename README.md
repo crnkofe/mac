@@ -4,7 +4,7 @@ Convert between numeric and aa:bb:cc:dd:ee:ff form of MAC address.
 
 To build:
 ```
-go build -o mac.go
+go build -o mac
 ```
 
 To convert from numeric:
